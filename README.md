@@ -27,7 +27,7 @@ This project demonstrates the installation and use ofKali Linux in a virtual mac
  This project helped me understand how to work with Kali Linux , use securitytools like Nmap, and perform basics networkscanning. These skills are important for IT support and entry-level cybersecurity roles.
 
  ## Scrrenshots
- ![Kali Setup](kali linux 1.jpg)
- ![Terminal Commands](kali linux 2.jpg)
+ ![Kali Setup](kali-linux-1.jpg)
+ ![Terminal Commands](kali-linux-2.jpg)
 
 
